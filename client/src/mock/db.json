@@ -111,6 +111,14 @@
       "dataValidade": "2022-11",
       "preco": 30,
       "id": 22
+    },
+    {
+      "nome": "teste",
+      "dataFabricacao": "2022-03",
+      "perecivel": "true",
+      "dataValidade": "2022-12",
+      "preco": 70,
+      "id": 23
     }
   ]
 }
